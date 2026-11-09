@@ -27,15 +27,17 @@ Jika perintah `python` tidak tersedia, coba gunakan `python3` (macOS/Linux) atau
 
 ## Bukti Screenshot Eksekusi
 
-### Soal 1 – Program BMI
-![Screenshot hasil program BMI](screenshot/soal1.png)
+### Soal 1 - Program BMI
 
-### Soal 2 – Data Nilai Mahasiswa
-![Screenshot hasil program nilai mahasiswa](screenshot/soal2.png)
+![Screenshot hasil program BMI](soal1.png)
 
-### Soal 3 – Modul Matematika
-![Screenshot hasil program modul matematika](screenshot/soal3.png)
+### Soal 2 - Data Nilai Mahasiswa
 
+![Screenshot hasil program nilai mahasiswa](soal2.png)
+
+### Soal 3 - Modul Matematika
+
+![Screenshot hasil program modul matematika](soal3.png)
 
 ## Struktur Folder
 
