@@ -1,0 +1,1 @@
+Simpan tiga screenshot hasil eksekusi terminal di folder ini. Gunakan nama file yang tercantum pada README.md.
